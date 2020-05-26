@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Lux",
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/ba/Lux_OriginalCentered.jpg/revision/latest?cb=20180414203358",
+    "desc": "Mage from Demacia",
+    "dmg": "Ranged"
+  },
+  {
+    "id": 2,
+    "name": "Nautilis",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg",
+    "desc": "Titan from Bilgewater",
+    "dmg": "Melee"
+  },
+  {
+    "id": 3,
+    "name": "Caitlyn",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
+    "desc": "Hunter from Zaun",
+    "dmg": "Ranged"
+  },
+  {
+    "id": 4,
+    "name": "Ashe",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg",
+    "desc": "Leader from Feljord",
+    "dmg": "Ranged"
+  },
+  {
+    "id": 5,
+    "name": "Darius",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
+    "desc": "Warrior from Noxus",
+    "dmg": "Melee"
+  },
+  {
+    "id": 6,
+    "name": "Jinx",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
+    "desc": "Loosecannon of Zaun",
+    "dmg": "Ranged"
+  },
+  {
+    "id": 7,
+    "name": "Nasus",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg",
+    "desc": "Guardian of Sun Disk",
+    "dmg": "Melee"
+  },
+  {
+    "id": 8,
+    "name": "Teemo",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg",
+    "desc": "Bounty Hunter from Piltover",
+    "dmg": "Ranged"
+  }
+  ]
