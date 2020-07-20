@@ -1,7 +1,7 @@
-import React from 'react';
-import { Card, Button, Badge } from 'react-bootstrap';
+import React from "react";
+import { Card, Button, Badge } from "react-bootstrap";
 
-export function Champions({ data, setSelected }){
+export function Champions({ data, setSelected }) {
   return (
     <Card className="h-100 shadow-sm bg-white rounded">
       <Card.Img variant="top" src={data.image} />
@@ -17,8 +17,9 @@ export function Champions({ data, setSelected }){
           onClick={() => setSelected()}
           className="mt-auto font-weight-bold"
           variant="sucess"
-          block>
-            Select Champion!
+          block
+        >
+          Select Champion!
         </Button>
       </Card.Body>
     </Card>
